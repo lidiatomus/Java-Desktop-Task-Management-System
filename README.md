@@ -38,16 +38,8 @@ This application showcases several core concepts of Object-Oriented Programming 
 
 ---
 
-## 📂 Project Structure
-
-| File / Package | Description |
-| :--- | :--- |
-| `com.lidia_assignement1.model` | Contains the core data models: `Employee.java`, `Task.java` (Abstract), `SimpleTask.java`, and `ComplexTask.java`. |
-| `com.lidia_assignement1.business` | Contains the application logic: `TaskManagement.java` (handles all CRUD operations and assignments) and `Utility.java` (handles analysis and sorting). |
-| `com.lidia_assignement1.ui` | Contains the Swing GUI implementation: `TaskManagementInterface.java`. |
-| `com.lidia_assignement1.serialization`| Utility class for saving/loading application state: `SerializationUtil.java`. |
-| `Main.java` | The main entry point for the console application. |
-| `PredefinedData.java` | Utility class to load initial sample data into the system. |
+* **Lidia Tomus**
+    * Student at the Technical University of Cluj-Napoca (UTCN)
 
 ---
 
