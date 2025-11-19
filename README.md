@@ -38,10 +38,6 @@ This application showcases several core concepts of Object-Oriented Programming 
 
 ---
 
-* **Lidia Tomus**
-    * Student at the Technical University of Cluj-Napoca (UTCN)
-
----
 
 ## 🧑‍💻 Author
 
